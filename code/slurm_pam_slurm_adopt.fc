@@ -1,0 +1,2 @@
+/var/spool/slurm     -d    gen_context(system_u:object_r:slurm_spool_t,s0)
+/var/spool/slurm/.*        gen_context(system_u:object_r:slurm_spool_t,s0)

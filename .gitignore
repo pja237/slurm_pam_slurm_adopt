@@ -1,0 +1,4 @@
+*.rpm
+*.pp
+code/tmp/
+code/noarch/
